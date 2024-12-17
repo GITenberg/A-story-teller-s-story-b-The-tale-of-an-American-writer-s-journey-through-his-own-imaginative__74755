@@ -1,0 +1,38 @@
+_repo: A-story-teller-s-story-b-The-tale-of-an-American-writer-s-journey-through-his-own-imaginative__74755
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: https://en.wikipedia.org/wiki/Sherwood_Anderson
+description: ''
+gutenberg_issued: '2024-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74755'
+  lccn: '24027699'
+language: en
+pgterms:marc904: https://archive.org/details/storytellersstor00ande/page/n5/mode/2up
+pgterms:marc905: 20220104000844anderson
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Charlene Taylor, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bB. W. Huebsch, Inc., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Anderson, Sherwood, 1876-1941'
+- !lcc 'PS'
+- GITenberg
+title: 'A story teller''s story : $b The tale of an American writer''s journey through
+  his own imaginative world and through the world of facts, with many of his experiences
+  and impressions among other writers'
+url: http://www.gutenberg.org/ebooks/74755
